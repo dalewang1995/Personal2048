@@ -7,6 +7,7 @@
 
 <font size=4>实现效果</font>
 
+<img src="http://coderw.cn/images/2048.gif">
 
 
 
